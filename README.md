@@ -25,7 +25,7 @@ To run this project, you will need the following installed:
 
 * **Python 3**
 * **PyYAML** library for Python (`pip install pyyaml`)
-* **GCC** (GNU Compiler Collection) or a compatible C compiler (e.g., `sudo apt install build-essential` on Debian/Ubuntu).
+* **GCC** (GNU Compiler Collection) or a compatible C compiler 
 
 ## How to Run
 
